@@ -1,0 +1,6 @@
+# Custom Dictionary Words
+
+# K
+
+# Training platform that provides courses in DevOps and cloud technologies
+KodeKloud
